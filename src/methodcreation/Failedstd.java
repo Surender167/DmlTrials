@@ -4,7 +4,7 @@ class Failedstd {
 
 }
 
-class Vinay {
+ class Vinay {
 
 	void sleep() {
 
@@ -23,7 +23,8 @@ class Dhoni {
 class Jadeja {
 
 	void bowling() {
-
+   
+		
 	}
 }
 
@@ -37,6 +38,11 @@ class Maxwell {
 class Pooran {
 
 	void batting() {
+		
+		String firstover = "goodbatting";
+		String lastover = "badbatting";
+		String totalruns = firstover + lastover ;
+		System.out.println(totalruns);
 
 	}
 }
@@ -44,6 +50,8 @@ class Pooran {
 class Shravan {
 
 	void driving() {
+		
+		
 
 	}
 }
